@@ -49,6 +49,5 @@ Here are some ideas to get you started:
 - ITQ Powerpoint
 
 ### Languages
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&green=<COLOR>
 
 ### Contacts
