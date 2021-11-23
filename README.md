@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 | Research activities | 2018. 3 ~ 2021. 2 | Undergraduate Research Students | Hanshin Univ. SE Lab |
 | 🏢Employment | 2020. 9 ~ 2021. 2 | SI, QA Engineer | Banguard Lab |
 
-
 ### Project
-# - [2020. 9 ~ 2021. 2] Daegu Bank BPR Advancement Project.
+- **[2020. 9 ~ 2021. 2] Daegu Bank BPR Advancement Project.**
 - Movie reservation website with HTML, CSS, JS
 - 'MadMans' Daily Look app with HTML, CSS, JS
 - Exchange rate measurement app with JAVA, Kotlin
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 - Kindergarten evaluation web/app with JAVA, Kotlin, HTML, CSS  
 - Encryption transmission and reception with Python
 - NXT Finding a maze with C++
-- 
+
 ### Certificate
 - Information Processing Engineer
 - Word Processer 1
@@ -50,6 +49,6 @@ Here are some ideas to get you started:
 - ITQ Powerpoint
 
 ### Languages
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&green=<COLOR>
 
 ### Contacts
