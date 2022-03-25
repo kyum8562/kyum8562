@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 - SQLD(Structured Query Language Developer)
 
 ### Languages
-
+https://img.shields.io/badge/<LABEL>-<Javascript>-<BLUE>
+https://img.shields.io/badge/<LABEL>-<HTML>-<RED>
 ### Contacts
