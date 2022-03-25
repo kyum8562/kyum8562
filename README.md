@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 - SQLD(Structured Query Language Developer)
 
 ### Languages
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0071C5-<BLUE>)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-#F7DF1E?logo=Javascript&logoColor=white)
 
 ### Contacts
