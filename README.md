@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 - ITQ Hangul
 - ITQ Excel
 - ITQ Powerpoint
+- ADsP(Advanced Data Analytics Semi-Professional)
+- SQLD(Structured Query Language Developer)
 
 ### Languages
 
