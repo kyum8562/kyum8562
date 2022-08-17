@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 - Technology that deals with databases.
 - Studying big data analysis.
 
-
-### Career
-| Type | Date | Contents | Organization |
-| ---- | ---- | -------- | ------------ |
-| 🎓Education | 2014.3 ~ 2021.2 | Department of Computer Engineering | Hanshin University |
-| Research activities | 2014. 3 ~ 2018. 2 | Undergraduate Research Students | Hanshin Univ. DB Lab |
-| Research activities | 2018. 3 ~ 2021. 2 | Undergraduate Research Students | Hanshin Univ. SE Lab |
-| 🏢Employment | 2020. 9 ~ 2021. 2 | SI, QA Engineer | Banguard Lab |
-
 ### Project
 - **[2020. 9 ~ 2021. 2] Daegu Bank BPR Advancement Project.**
 - Movie reservation website with HTML, CSS, JS
