@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Chang%20Gyeom&fontSize=70)
-
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyum8562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hello I'm ChangGyeom 👋
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum8562&layout=compact&theme=dracula)
 
-<div align="center">
+
   <a href="http://solved.ac/kyum8562"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562"/></a> <a href="http://solved.ac/kyum8562"><img src="http://mazandi.herokuapp.com/api?handle=kyum8562&theme=dark"/></a>
 </div>
