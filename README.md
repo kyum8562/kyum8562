@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kyum8562@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 </a>
+<span><a href="https://girinkim.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://girinkim.tistory.com/"/></a></span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum8562&layout=compact&theme=dracula)
 
