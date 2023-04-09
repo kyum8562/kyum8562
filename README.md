@@ -1,4 +1,6 @@
 <!--
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Baek%20Chang Gyeom&fontSize=70)
+
 **kyum8562/kyum8562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
