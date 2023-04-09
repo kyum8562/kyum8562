@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum8562&layout=compact&theme=dracula)
+
+<div align="center">
+  <a href="http://solved.ac/kyum8562"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562"/></a> <a href="http://solved.ac/kyum8562"><img src="http://mazandi.herokuapp.com/api?handle=yb5464&theme=dark"/></a>
+</div>
