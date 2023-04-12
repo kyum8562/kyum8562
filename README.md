@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 - Movie reservation website with HTML, CSS, JS
 - 'MadMans' Daily Look app with HTML, CSS, JS
 - Exchange rate measurement app with JAVA, Kotlin
-- cafe POS with JAVA
-- Kindergarten evaluation web/app with JAVA, Kotlin, HTML, CSS  
-- Encryption transmission and reception with Python
-- NXT Finding a maze with C++
 
 ### Certificate
 - Information Processing Engineer
