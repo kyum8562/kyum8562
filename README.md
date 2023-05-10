@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 </a>
 <span><a href="https://girinkim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://girinkim.tistory.com/"/></a></span>
 <img src="https://img.shields.io/static/v1?message="Notion"&color="yellow"/>
+<img src="https://img.shields.io/badge/Notion-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://girinkim.tistory.com/"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum8562&layout=compact&theme=dracula)
 
 <div align="left">
