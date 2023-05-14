@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://girinkim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://girinkim.tistory.com/"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://girinkim.tistory.com/"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum8562&layout=compact&theme=dracula)
 
 <div align="left">
   <a href="http://solved.ac/kyum8562"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562"/></a> <a href="http://solved.ac/kyum8562"><img src="http://mazandi.herokuapp.com/api?handle=kyum8562&theme=dark"/></a>
