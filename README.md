@@ -56,3 +56,6 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="http://solved.ac/kyum8562"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562"/></a> <a href="http://solved.ac/kyum8562"><img src="http://mazandi.herokuapp.com/api?handle=kyum8562&theme=dark"/></a>
 </div>
+
+<img src="https://oreuda.kr/api/v1/plant/card?nickname=kyum8562"/>
+
