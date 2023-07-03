@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 - SQLD(Structured Query Language Developer)
 - 정보처리기사
 - Word Processer 1
-- ITQ Hangul
-- ITQ Excel
-- ITQ Powerpoint
+- ITQ Hangul, Excel, Powerpoint
 
 ### 🎈 경험
 - [2022. 07 - 2023. 06] SSAFY(삼성 청년 SW 아카데미) 8기
