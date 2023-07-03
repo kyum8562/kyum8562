@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Chang%20Gyeom&fontSize=70) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gyeom's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=250)
 
-<!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";> -->
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyum8562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- ### Hello I'm ChangGyeom 👋 -->
@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 <a href = "https://oreuda.kr/">
   <img src=https://oreuda.kr/api/v1/plant/card?nickname=kyum8562 alt="oreuda" />
 </a>
+</div>
          
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";></div>
