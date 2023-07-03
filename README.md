@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyum8562&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;">
-<!-- ### Hello I'm ChangGyeom 👋 -->
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
  
  ### 🌱 자기소개
  - 새로움 뿐만 아니라, 기존의 불편한 점을 찾고 개선하는 프론트엔드 개발자가 되고 싶습니다.
