@@ -101,6 +101,12 @@
   </a>
  </div>
 
+ ### 🚩 백준
+  <div key="1">
+    <a href="http://solved.ac/kyum8562"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562 width="280" height="140" alt="baekjoon" /></a>
+    <a href="http://solved.ac/kyum8562"><img src=http://mazandi.herokuapp.com/api?handle=kyum8562&theme=warm width="285" height="140" alt="solved" /></a>
+  </div>
+
  ### 😎 오르다
  <div>
   <a href = "https://oreuda.kr/">
