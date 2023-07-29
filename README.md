@@ -103,8 +103,8 @@
 
  ### 🚩 백준
   <div key="1">
-    <a href="http://solved.ac/kyum8562"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562 width="280" height="140" alt="baekjoon" /></a>
-    <a href="http://solved.ac/kyum8562"><img src=http://mazandi.herokuapp.com/api?handle=kyum8562&theme=warm width="285" height="140" alt="solved" /></a>
+    <a href="http://solved.ac/kyum8562"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=kyum8562 width="340" height="170" alt="baekjoon" /></a>
+    <a href="http://solved.ac/kyum8562"><img src=http://mazandi.herokuapp.com/api?handle=kyum8562&theme=warm width="350" height="175" alt="solved" /></a>
   </div>
 
  ### 😎 오르다
