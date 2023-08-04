@@ -8,7 +8,7 @@
  ### 🌱 자기소개 
  <p style ="font-size : 20px;">새로움 뿐만 아니라, 기존의 불편한 점을 찾고 개선하는 프론트엔드 개발자가 되고 싶습니다.</p>
  
- ### 🤔 프로젝트 🤔
+ ### 🤔 프로젝트 
  <p style ="font-size : 20px;">[2020. 09 - 2021. 02] 대구은행 BPR Project 참여/고객 페이지 개발</p>
  <p style ="font-size : 20px;">[2023. 01 - 2023. 02] Blur: Web RTC를 활용한 웹 소개팅 서비스</p>
  <p style ="font-size : 20px;">[2023. 02 - 2023. 04] Haru Palette: 다중 감정분석 기능이 담긴 AI 음성 다이어리 서비스</p>
