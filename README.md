@@ -14,7 +14,7 @@
  <p style ="font-size : 20px;">[2023. 02 - 2023. 04] Haru Palette: 다중 감정분석 기능이 담긴 AI 음성 다이어리 서비스</p>
  <p style ="font-size : 20px;">[2023. 04 - 2023. 05] Oreuda: 깃허브 기반 레포지토리 분석 및 GUI 리드미 작성 서비스</p>
  
- ### 😄 자격증 😄
+ ### 😄 자격증 
  <p style ="font-size : 20px;">ADsP(Advanced Data Analytics Semi-Professional)</p>
  <p style ="font-size : 20px;">SQLD(Structured Query Language Developer)</p>
  <p style ="font-size : 20px;">정보처리기사</p>
