@@ -21,7 +21,7 @@
  <p style ="font-size : 20px;">Word Processer 1</p>
  <p style ="font-size : 20px;">ITQ Hangul, Excel, Powerpoint</p>
  
- ### 🎈 경험 🎈
+ ### 🎈 경험 
  <p style ="font-size : 20px;">[2022. 07 - 2023. 06] SSAFY(삼성 청년 SW 아카데미) 8기</p>
  <p style ="font-size : 20px;">[2020. 09 - 2023. 02] (주) 뱅가드랩</p>
  
