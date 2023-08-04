@@ -25,7 +25,7 @@
  <p style ="font-size : 20px;">[2022. 07 - 2023. 06] SSAFY(삼성 청년 SW 아카데미) 8기</p>
  <p style ="font-size : 20px;">[2020. 09 - 2023. 02] (주) 뱅가드랩</p>
  
- ### ⚡기술 스택⚡
+ ### ⚡기술 스택
  <div>
   <div >
    <h3 key=0 style ="font-size : 1.5em; font-weight:700;">프론트엔드</h3>
