@@ -22,6 +22,7 @@
  <p style ="font-size : 20px;">ITQ Hangul, Excel, Powerpoint</p>
  
  ### 🎈 경험 
+ <p style ="font-size : 20px;">[2023. 06 - 2023. 09] 프론트엔드 CS 스터디</p>
  <p style ="font-size : 20px;">[2022. 07 - 2023. 06] SSAFY(삼성 청년 SW 아카데미) 8기</p>
  <p style ="font-size : 20px;">[2020. 09 - 2023. 02] (주) 뱅가드랩</p>
  
