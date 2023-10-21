@@ -108,7 +108,7 @@
     <a href="http://solved.ac/kyum8562"><img src=http://mazandi.herokuapp.com/api?handle=kyum8562&theme=warm width="350" height="175" alt="solved" /></a>
   </div>
 
- ### 😎 오르다
+ ### 👊 오르다
  <div>
   <a href = "https://oreuda.kr/">
     <img src=https://oreuda.kr/api/v1/plant/card?nickname=kyum8562 alt="oreuda" />
