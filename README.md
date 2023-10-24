@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gyeom's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=250)
-<!--<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>-->
+<!--<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>--> 
  <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Chang%20Gyeom&fontSize=70) --> 
 
 
