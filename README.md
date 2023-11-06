@@ -28,7 +28,7 @@
 
  ### ⚡기술 스택
  <div>
-  <div >
+  <div>
    <h3 key=0 style ="font-size : 1.5em; font-weight:700;">프론트엔드</h3>
    <img 
        key=541003.2943148586
@@ -60,6 +60,7 @@
        style = "margin: 5px 5px;"
        src=https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white
        alt=""/>
+ </div>
  </div>
   <h3 key=1 style ="font-size : 1.5em; font-weight:700;">협업 툴</h3>
   <div>
@@ -112,4 +113,3 @@
     <img src=https://oreuda.kr/api/v1/plant/card?nickname=kyum8562 alt="oreuda" />
   </a>
  </div>
-<!-- </div>-->
